@@ -4,7 +4,7 @@ title: Relevant Coursework
 permalink: /courses/
 ---
 
-<h2>At Georgia Institute of Technology</h2>
+<h2>At Khulna University of Engineering & Technology</h2>
 
 <h3>Mathematics</h3>
 
